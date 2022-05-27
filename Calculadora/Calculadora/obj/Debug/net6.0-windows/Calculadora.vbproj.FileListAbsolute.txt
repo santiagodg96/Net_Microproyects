@@ -1,0 +1,36 @@
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.AssemblyReference.cache
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.GenerateResource.cache
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.vb
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.CoreCompileInputs.cache
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+E:\Santy\Mega\Programación\Visual Basic\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Resources.resources
+F:\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+F:\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+F:\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+F:\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+F:\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.AssemblyReference.cache
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Resources.resources
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.GenerateResource.cache
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.vb
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.CoreCompileInputs.cache
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+F:\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
