@@ -1,0 +1,9 @@
+F:\PC_Builder\PC_Builder\bin\Debug\PC_Builder.exe
+F:\PC_Builder\PC_Builder\bin\Debug\PC_Builder.pdb
+F:\PC_Builder\PC_Builder\bin\Debug\PC_Builder.xml
+F:\PC_Builder\PC_Builder\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\PC_Builder\PC_Builder\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PC_Builder\PC_Builder\obj\x86\Debug\PC_Builder.vbproj.GenerateResource.Cache
+F:\PC_Builder\PC_Builder\obj\x86\Debug\PC_Builder.exe
+F:\PC_Builder\PC_Builder\obj\x86\Debug\PC_Builder.xml
+F:\PC_Builder\PC_Builder\obj\x86\Debug\PC_Builder.pdb
