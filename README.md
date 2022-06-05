@@ -1,5 +1,5 @@
 # Net_Microproyects
-Proyectos creados durante la cursada de Programación II - Orientada a objetos.<br>
+Proyectos creados durante la cursada de la materia Programación II - Orientada a objetos.<br>
 PC Builder:<br>
 ![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/pcbuilder.PNG)<br>
 ![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/pcbuilder2.PNG)<br>
