@@ -1,16 +1,20 @@
 # Net_Microproyects
 Proyectos creados durante la cursada de la materia Programación II - Orientada a objetos.<br>
+Si las imagenes no cargan, haca click en los enlaces.<br>
+Crud Local (Carpeta 'Tarea' en el main):<br>
+![Crud]('https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/abm.JPG')<br>
+![Crud](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/abm2.JPG)<br>
 PC Builder:<br>
 ![PCBuilder](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/pcbuilder.PNG)<br>
-![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/pcbuilder2.PNG)<br>
-![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/pcbuilder3.PNG)<br>
+![PCBuilder2](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/pcbuilder2.PNG)<br>
+![PCBuilder3](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/pcbuilder3.PNG)<br>
 Calculadora:<br>
-![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/Calculadora.PNG)<br>
+![Calculadora](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/Calculadora.PNG)<br>
 Conversor de unidades de tiempo:<br>
-![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/Tiempo.PNG)<br>
-![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/Tiempo2.PNG)<br>
+![Conversor](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/Tiempo.PNG)<br>
+![Conversor2](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/Tiempo2.PNG)<br>
 Conversor de pulgadas y centimetros:<br>
-![Image text](https://github.com/santiagodg96/Net_Microproyects/blob/main/conversor.PNG)
+![Pulgadas y Centímetros](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/conversor.PNG)
 
 
 
