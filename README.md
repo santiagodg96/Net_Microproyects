@@ -3,7 +3,7 @@ Proyectos creados durante la cursada de la materia Programación II - Orientada 
 Si las imagenes no cargan, haca click en los enlaces.<br>
 Crud Local (Carpeta 'Tarea' en el main):<br>
 ![Crud](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/abm.JPG)<br>
-![Crud](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/abm2.JPG)<br>
+![Crud2](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/abm2.JPG)<br>
 PC Builder:<br>
 ![PCBuilder](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/pcbuilder.PNG)<br>
 ![PCBuilder2](https://raw.githubusercontent.com/santiagodg96/Net_Microproyects/main/pcbuilder2.PNG)<br>
