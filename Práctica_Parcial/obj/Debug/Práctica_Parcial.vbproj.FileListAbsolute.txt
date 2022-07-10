@@ -1,0 +1,13 @@
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\bin\Debug\Práctica_Parcial.exe.config
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\bin\Debug\Práctica_Parcial.exe
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\bin\Debug\Práctica_Parcial.pdb
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\bin\Debug\Práctica_Parcial.xml
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.vbproj.AssemblyReference.cache
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.vbproj.SuggestedBindingRedirects.cache
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.Form1.resources
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.Resources.resources
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.vbproj.GenerateResource.cache
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.vbproj.CoreCompileInputs.cache
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.exe
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.xml
+C:\Users\944556\OneDrive - Cognizant\Desarrollo\Net\Práctica_Parcial\obj\Debug\Práctica_Parcial.pdb
